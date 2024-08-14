@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+learn more about graphQL. Why it is better than REST.
+https://www.howtographql.com/basics/1-graphql-is-the-better-rest/
 
 First, run the development server:
 
